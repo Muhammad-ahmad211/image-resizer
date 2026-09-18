@@ -1,0 +1,20 @@
+{
+  "name": "Rescale — Image Resizer, Upscaler & Background Remover",
+  "short_name": "Rescale",
+  "description": "Resize, upscale and remove image backgrounds in your browser. Free, private, no uploads.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ec",
+  "theme_color": "#e2622f",
+  "lang": "en",
+  "categories": ["photo", "utilities", "productivity"],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
